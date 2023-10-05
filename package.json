@@ -53,12 +53,11 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-icons": "^4.6.0",
-    "styled-components": "^5.3.6"
+  
   },
   "peerDependencies": {
-    "react": "^18.2.0",
+     "react": ">=16.9.0",
+	"react-icons": "^4.0.0",
     "styled-components": "^5.3.6"
   },
   "keywords": [
